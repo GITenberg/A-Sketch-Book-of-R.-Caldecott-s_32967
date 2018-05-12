@@ -20,6 +20,8 @@ covers:
 - cover_type: archival
   image_path: 32967-h/images/i_cover.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32967#A-Sketch-Book-of-R.-Caldecott-s
 gutenberg_issued: '2010-06-24'
 gutenberg_type: Text
 identifiers:
