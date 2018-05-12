@@ -1,0 +1,36 @@
+_repo: A-Sketch-Book-of-R.-Caldecott-s_32967
+_version: 0.1.0
+contributor:
+  engineer:
+    agent_name: Evans, Edmund
+    alias: Evans, E. (Edmund)
+    birthdate: 1826
+    deathdate: 1905
+    gutenberg_agent_id: '31336'
+    url: http://www.gutenberg.org/2009/agents/31336
+  illustrator:
+    agent_name: Caldecott, Randolph
+    alias: Caldecott, R. (Randolph)
+    birthdate: 1846
+    deathdate: 1886
+    gutenberg_agent_id: '3611'
+    url: http://www.gutenberg.org/2009/agents/3611
+    wikipedia: http://en.wikipedia.org/wiki/Randolph_Caldecott
+covers:
+- cover_type: archival
+  image_path: 32967-h/images/i_cover.jpg
+description: ''
+gutenberg_issued: '2010-06-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32967'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Drawing, English'
+- !lcc 'NC'
+- !lcsh 'Artists'' preparatory studies'
+title: A Sketch-Book of R. Caldecott's
+url: http://www.gutenberg.org/ebooks/32967
